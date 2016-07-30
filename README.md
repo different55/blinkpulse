@@ -1,4 +1,4 @@
-## BlinkPulse Visualizer
+# BlinkPulse Visualizer
 
 A music visualizer for the BlinkStick built on Will Yager's LED music visualizer project: http://yager.io/LEDStrip/LED.html
 
